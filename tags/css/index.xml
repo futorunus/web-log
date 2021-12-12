@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>css on Web-Log</title>
-    <link>https://0.0.0.0/tags/css/</link>
+    <link>https://futorunus.github.io/web-log/tags/css/</link>
     <description>Recent content in css on Web-Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Да поможет вам [F1], Да сохранит вас [F2]. Copyright © I am; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://0.0.0.0/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://futorunus.github.io/web-log/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://0.0.0.0/post/markdown-syntax/</link>
+      <link>https://futorunus.github.io/web-log/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://0.0.0.0/post/markdown-syntax/</guid>
+      <guid>https://futorunus.github.io/web-log/post/markdown-syntax/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     
