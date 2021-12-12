@@ -1,0 +1,79 @@
+baseURL = "https://0.0.0.0/"
+title = "Web-Log"
+author = "I am"
+copyright = "Да поможет вам [F1], Да сохранит вас [F2]. Copyright © I am; all rights reserved."
+paginate = 5
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+ignoreErrors = ["error-remote-getjson"]
+
+# ------------------------------
+theme = "papermod"
+
+[params]
+  twitter = 'my twitter'
+  github = 'my github'
+  instagram = 'my instagram'
+# ------------------------------
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    url = "/tags/"
+    weight = 20
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+# ------------------------------
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
